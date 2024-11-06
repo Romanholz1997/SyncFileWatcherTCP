@@ -1,0 +1,14 @@
+F:\Job\SyncFileServer\SyncFileServer\bin\Debug\net8.0\SyncFileServer.exe
+F:\Job\SyncFileServer\SyncFileServer\bin\Debug\net8.0\SyncFileServer.deps.json
+F:\Job\SyncFileServer\SyncFileServer\bin\Debug\net8.0\SyncFileServer.runtimeconfig.json
+F:\Job\SyncFileServer\SyncFileServer\bin\Debug\net8.0\SyncFileServer.dll
+F:\Job\SyncFileServer\SyncFileServer\bin\Debug\net8.0\SyncFileServer.pdb
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.AssemblyInfoInputs.cache
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.AssemblyInfo.cs
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.csproj.CoreCompileInputs.cache
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.dll
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\refint\SyncFileServer.dll
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.pdb
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\SyncFileServer.genruntimeconfig.cache
+F:\Job\SyncFileServer\SyncFileServer\obj\Debug\net8.0\ref\SyncFileServer.dll

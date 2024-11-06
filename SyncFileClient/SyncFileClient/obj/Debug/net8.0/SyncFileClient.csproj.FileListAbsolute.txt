@@ -1,0 +1,14 @@
+F:\Job\SyncFileClient\SyncFileClient\bin\Debug\net8.0\SyncFileClient.exe
+F:\Job\SyncFileClient\SyncFileClient\bin\Debug\net8.0\SyncFileClient.deps.json
+F:\Job\SyncFileClient\SyncFileClient\bin\Debug\net8.0\SyncFileClient.runtimeconfig.json
+F:\Job\SyncFileClient\SyncFileClient\bin\Debug\net8.0\SyncFileClient.dll
+F:\Job\SyncFileClient\SyncFileClient\bin\Debug\net8.0\SyncFileClient.pdb
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.AssemblyInfoInputs.cache
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.AssemblyInfo.cs
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.csproj.CoreCompileInputs.cache
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.dll
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\refint\SyncFileClient.dll
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.pdb
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\SyncFileClient.genruntimeconfig.cache
+F:\Job\SyncFileClient\SyncFileClient\obj\Debug\net8.0\ref\SyncFileClient.dll
